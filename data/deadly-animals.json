@@ -1,0 +1,138 @@
+
+[
+  {
+    "question": "Which animal kills the most humans annually?",
+    "options": ["Bee", "Shark", "Snake", "Mosquito"],
+    "correctOption": 3,
+    "points": 10
+  },
+  {
+    "question": "According to scientists, an attack on a person by which of these animals is most likely to kill the person?",
+    "options": ["Hippopotamus", "Grizzly Bear", "Shark", "Crocodile"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "The stings of which creature kill hundreds of swimmers each year?",
+    "options": ["Barracuda", "Jellyfish", "Squid", "Octopus"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "Rabies, which kills about 59,000 people each year, is transmitted almost entirely by which animal?",
+    "options": ["Rat", "Bat", "Raccoon", "Dog"],
+    "correctOption": 3,
+    "points": 10
+  },
+  {
+    "question": "A delicacy in Japan, which fish has killed diners with its powerful toxin?",
+    "options": [
+      "Puffer Fish",
+      "Bluefin Tuna",
+      "Moray Eel",
+      "Sea Snake"
+    ],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "From 1979 to 2019, attacks by which animal killed the most people in the United State and Canada?",
+    "options": ["Cougar", "Brown Bear", "Wolf", "Alligator"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "Which of these animals has the strongest recorded jaw strength?",
+    "options": [
+      "Saltwater Crocodile",
+      "Polar Bear",
+      "Silverback Gorilla",
+      "Spotted Hyena"
+    ],
+    "correctOption": 0,
+    "points": 30
+  },
+  {
+    "question": "To help prevent deadly encounters between elephants and human, farmers rely on which method to ward off elephants?",
+    "options": [
+      "Setting up elephant-shaped \"scarecrows\"",
+      "Using flashing television screens",
+      "Burning chili powder",
+      "Using air horns"
+    ],
+    "correctOption": 2,
+    "points": 20
+  },
+  {
+    "question": "Accused of devouring more than 130 people, the \"man-eaters\" of Tsvao were a pair of what?",
+    "options": [
+      "Tigers",
+      "Hyenas",
+      "Crocodiles",
+      "Lions"
+    ],
+    "correctOption": 3,
+    "points": 30
+  },
+  {
+    "question": "Helping to make deadly animals a little less deadly, antivenom is made by doing what?",
+    "options": [
+      "Pumping venomous animals full of antibiotics",
+      "Mixing venom with powerful vitamins",
+      "Injecting venom into animals to produce antibodies",
+      "Boiling venom to remove its toxins"
+    ],
+    "correctOption": 2,
+    "points": 30
+  },
+  {
+    "question": "Which shark is often considered more dangerous to people than the great white, because it can swim in fresh water?",
+    "options": ["Hammerhead Shark", "Bull Shark", "Thresher Shark", "Mako Shark"],
+    "correctOption": 1,
+    "points": 10
+  },
+  {
+    "question": "The bite of which animal is roughly equivalent to a bee sting?",
+    "options": [
+      "Black Widow Spider",
+      "Bark Scorpion",
+      "Tarantula",
+      "Recluse Spider"
+    ],
+    "correctOption": 2,
+    "points": 30
+  },
+  {
+    "question": "Which of these African animals is nicknamed \"Black Death\"?",
+    "options": [
+      "Black Spitting Cobra",
+      "Cape Buffalo",
+      "Black Panther",
+      "Gorilla"
+    ],
+    "correctOption": 1,
+    "points": 30
+  },
+  {
+    "question": "One of the deadly snakes in the world, the Inland taipan is renowned for what?",
+    "options": [
+      "Having six-inch fangs",
+      "Having extremely toxic venom",
+      "Having unusual crushing power",
+      "Measuring more than 30 feet long"
+    ],
+    "correctOption": 1,
+    "points": 20
+  },
+  {
+    "question": "Responsible for spreading a deadly disease, which creature is among the world's most lethal?",
+    "options": [
+      "Centipede",
+      "Leech",
+      "Lady Bug",
+      "Snail"
+    ],
+    "correctOption": 3,
+    "points": 30
+  }
+]
